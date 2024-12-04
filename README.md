@@ -1,6 +1,7 @@
 # ATM-Transcation-for-Wasabi-Bank
 ## Objective
 The project aims to analyze day-to-day ATM transactions from January 2022 to December 2022 to gain insights into customer behavior, ATM usage patterns, and service optimization opportunities for Wasabi Bank. This analysis will focus on transaction data from branches across Lagos, Kano, Rivers State, Enugu, Rivers, and FCT Abuja.
+[here](https://app.powerbi.com/links/wnzV7W1rKA?ctid=a20d9c8a-2343-47af-9caa-d0d4508edde1&pbi_source=linkShare&bookmarkGuid=7a5c043a-f0af-49b9-9aa5-9aa4e56a6544)
 ## Scope
 **Time Frame**: January 2022 to December 2022. <br>
 **Locations**: ATM and branch transactions from key states and regions. <br>
