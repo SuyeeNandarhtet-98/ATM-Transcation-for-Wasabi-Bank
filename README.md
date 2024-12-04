@@ -42,4 +42,10 @@ According to the data, individuals within the age group of 36 to 45 exhibit the 
 # Timeline
 
 
-
+Withdrawal, transfer, balance inquiry, and deposit transactions occur most frequently during this time, with slight differences in transaction amounts between types.<br>
+Different age groups exhibit varied transaction frequencies and preferences, with distinct patterns in transaction types.<br>
+Transaction trends vary by day, showing potential peaks on specific weekdays or weekends.<br>
+Customers’ transaction behavior differs based on their occupation among them Welder and Trader who make transaction is 257 and 254 each, and highlighting unique needs for students, professionals, and retirees.<br>
+![image](https://github.com/user-attachments/assets/5cef954e-b614-4ac6-9f87-861c038cc726)
+# Conclusion
+Overall, this analysis provides actionable insights for Wasabi Bank to optimize ATM services, improve resource allocation, and enhance customer satisfaction. By addressing regional disparities, tailoring services to demographic preferences, and focusing on peak usage periods, the bank can strengthen its operational strategy and customer engagement.
